@@ -1,0 +1,3 @@
+# JavaSpring2022
+A program contructing a Binary Search Tree 
+methods are added to be able to insert new nodes into the tree, search for a node and printing out the original tree before printing out the BS Tree with the new nodes
